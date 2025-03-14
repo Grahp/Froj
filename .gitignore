@@ -1,6 +1,6 @@
-
 /.idea
 FrojBot/.env
+FrojBot/__pycache__/
 pronunciation_data/big.txt
 Froj_theories/Froj_Harri_theory/all_entries.json
 Froj_theories/Froj_Harri_theory/all_outlines.json
